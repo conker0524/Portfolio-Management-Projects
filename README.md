@@ -12,3 +12,11 @@ Situation: A pension fund has had a portfolio of several asset classes under act
 Task: The task of the Investment Controller (me) is to check for legal requirements of the portfolio, annualized returns, risk metrics (Beta, Alpha, Tracking Error and Treynor Ratio), and conduct an profitability analysis of the active management's performance (Performance attribution). The investment policy had estipulated a benchmark at the beginning of the investment period. This benchmark is checked for reliability and the necessary calculations for the comparison are also conducted for the report.
 
 Result: We found out that the portfolio had several flaws in legal requirements, some benchmarks were wrongly chosen, and that the active management had brought more costs than benefits. We recommend proper changes to guarantee future legal requirements in portfolio management for a pension fund and do some recommendations regarding new securities and rebalancing of other positions. Management agreed to every point.
+
+EXPLANATION FILE "2025 FIMG_Runde_2_Dorado"
+
+Fixed Income Portfolio
+
+Situation: Out of the 50 bonds available, I had to build a portfolio of at least 10 bonds, based on market data, duration, spreads and additional risk metrics
+
+Task: Investment Controlling of the portfolio. I checked for returns, risk metrics, performance attribution and conducted an analysis of the performance from a macroeconomic perspective.
